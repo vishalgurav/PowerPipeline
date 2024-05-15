@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ImportExportXml version="9.2.24044.184" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ImportExportXml version="9.2.24045.174" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SolutionManifest>
-    <UniqueName>FirstPipelineSolution</UniqueName>
+    <UniqueName>PipelineRajashree</UniqueName>
     <LocalizedNames>
-      <LocalizedName description="First Pipeline Solution" languagecode="1033" />
+      <LocalizedName description="PipelineRajashree" languagecode="1033" />
     </LocalizedNames>
     <Descriptions />
-    <Version>1.0.0.7</Version>
+    <Version>1.0.0.3</Version>
     <Managed>2</Managed>
     <Publisher>
       <UniqueName>DefaultPublisherorg937b78ca</UniqueName>
@@ -80,9 +80,8 @@
       </Addresses>
     </Publisher>
     <RootComponents>
-      <RootComponent type="29" id="{b6e276e7-000d-ef11-9f89-6045bda5d1af}" behavior="0" />
-      <RootComponent type="300" schemaName="new_firstpipelineapp_83f2f" behavior="0" />
-      <RootComponent type="300" schemaName="new_pipelinepowerapps_3c1e7" behavior="0" />
+      <RootComponent type="29" id="{5bc13b06-090d-ef11-9f89-6045bda5d1af}" behavior="0" />
+      <RootComponent type="300" schemaName="new_testpipelineapp_3909c" behavior="0" />
     </RootComponents>
     <MissingDependencies />
   </SolutionManifest>

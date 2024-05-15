@@ -13,8 +13,8 @@
   <EntityDataProviders />
   <CanvasApps />
   <connectionreferences>
-    <connectionreference connectionreferencelogicalname="new_sharedoffice365_73e2b">
-      <connectionreferencedisplayname>Office 365 Outlook FirstPipelineSolution-73e2b</connectionreferencedisplayname>
+    <connectionreference connectionreferencelogicalname="new_sharedoffice365_e0885">
+      <connectionreferencedisplayname>Office 365 Outlook PipelineRajashree-e0885</connectionreferencedisplayname>
       <connectorid>/providers/Microsoft.PowerApps/apis/shared_office365</connectorid>
       <iscustomizable>1</iscustomizable>
       <promptingbehavior>0</promptingbehavior>
